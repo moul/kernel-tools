@@ -42,7 +42,7 @@ apply-patches:
 	fi
 
 
-build_armv7l:
+build_armv7l build_arm64:
 	@mv build/build.txt build/build-prev.txt || true
 	$(MAKE) -f rules.mk uImage dtbs build_info 2>&1 | tee build/build.txt
 
