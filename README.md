@@ -1,5 +1,5 @@
 # Kernel Config
-[![Build Status](https://travis-ci.org/scaleway/kernel-tools.svg?branch=master)](https://travis-ci.org/scaleway/kernel-tools)
+[![Build Status](https://travis-ci.org/scaleway/kernel-tools.svg?branch=master)](https://travis-ci.org/scaleway/kernel-tools) [![GuardRails badge](https://badges.production.guardrails.io/moul/kernel-tools.svg)](https://www.guardrails.io)
 
 https://community.cloud.online.net/t/official-linux-kernel-new-modules-optimizations-hacks/226
 
